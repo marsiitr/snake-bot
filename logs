@@ -9,3 +9,5 @@ we checked using multimeter, the power supply was working fine the gnd and vcc p
 We had ordered this servo motor driver PCA9685 from Amazon,in the original documentation of PCA9685 from Adafruit it said it can control 16 servo motors at once. So, the possible reason can be it is a cheaper version of the product,
 the specification of the driver was not given on Amazon.
 <27/9/25> We are trying to find alternatives for this we will finalise the plan for this tomorrow.
+<28/9/25> Did extensive research for power distribution board, but couldn't find any suitable products so we have finalised to make our own power distribution system
+and did reaserach for the making of it. We have installed an appliaction, LTSpice in which we will make the circuit simulation.
